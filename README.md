@@ -22,7 +22,7 @@
 
 - Create a templates folder in the root of your project directory.
 - Add a HTML file inside your templates folder called index.html (you can using a previous html file with bootstrap).
-- Use the TemplateView to return a template in your url patterns to a path called `home` with the name `index` ([django docs]https://docs.djangoproject.com/en/4.1/topics/class-based-views/#usage-in-your-urlconf)).
+- Use the TemplateView to return a template in your url patterns to a path called `home` with the name `index` ([django docs](https://docs.djangoproject.com/en/4.1/topics/class-based-views/#usage-in-your-urlconf)).
 
 ## 3. Create an App with a View
 
